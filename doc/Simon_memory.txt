@@ -1,0 +1,8 @@
+Simon memory rule
+At the start of the game, the AI will randomly click on one of the four color in your screen.
+The AI will click once on the first round and click 2 times on the second round and so on.
+To play this game, you must press on the color that the AI press on.
+For example, The AI press red and blue. You must press these color in order to proceed to the next round.
+The game will stop when you press wrong once.
+
+cost for play this game = 10

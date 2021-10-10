@@ -1,0 +1,16 @@
+Blackjack rule
+1. Each player draw 2 cards.
+2. Value of card
+The cards that has a number,value is same with that number.
+Jack,King,Queen card value = 10
+Ace card value depend on if the first 2 cards are drawn has Ace card value = 11
+if draw card more after draw the first 2 cards, ace card value = 1
+3. If any player who has value = 21 in the first draw, the game will over immediately and 
+player who has value = 21 will be a winner. if both player has value = 21 will be tie.
+4. If both player value of cards not reach to 21, both player can draw more again and again.
+if draw until value over 21 can't draw a card anymore
+5.player who has value nearest 21 will be win
+6. If value over 21 will be lose.
+
+cost for play this game = 10
+

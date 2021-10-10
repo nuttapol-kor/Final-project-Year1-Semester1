@@ -1,0 +1,4 @@
+foo: Balance = 890.00
+Blackjack: #plays = 0,#wins = 0
+Simon_memory: #plays = 3,#score = 6
+Pok_Deng: #plays = 5,#score = 1

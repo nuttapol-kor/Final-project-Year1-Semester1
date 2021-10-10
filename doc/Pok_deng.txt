@@ -1,0 +1,19 @@
+Pok Deng rule
+At the start of the game, everyone will draw 2 cards.
+The card value of Ace will equal to 1 and 2 and 3 and 4 will equal to their number and so on,
+the Jack,King,Queen will equal to 10.
+If the card value you received is more than 10, it will divide by 10
+For example, if your card value is 15 it will be cut down to 5
+If the suit of both card is the same, it will be count as Deng. Same with 3 cards.
+Deng means you get 2 times more score.
+Same with 3 cards, you will get 3 times more score.
+The winner will be the one with the higher cards value.
+If , at the start, any of the player got a Pok 8 or Pok 9, other player won't be able to draw more card.
+If you draw one more card and all your card is the same value it will be count as Tong.
+For example, if you got 2 ace and then you draw one more ace your card will be count as Tong.
+If you win by Tong card, you will get 5 times more score.
+If you got Jack,King,Queen or basically any card that isn't a number for 3 cards it will be count as Straight Flush.
+For example, you got Jack and King then you draw one more and got Jack it will be count as Straight Flush.
+If you win by Straight Flush you get 3 times more score.
+
+cost for play this game = 10
